@@ -412,3 +412,8 @@
 2025-03-13 12:06:04 - DEBUG - \u274c Skipping 40066767, no match for 'Pfizer'
 2025-03-13 12:06:04 - INFO - Found 0 papers after filtering
 2025-03-13 12:06:04 - WARNING - \u26a0 No papers found matching the criteria.
+2025-03-14 00:05:41 - INFO - Found 5 PubMed IDs for query: machine learning
+2025-03-14 00:06:12 - INFO - Found 50 PubMed IDs for query: machine learning
+2025-03-14 00:20:14 - INFO - Found 50 PubMed IDs for query: machine learning
+2025-03-14 00:35:36 - INFO - Found 50 PubMed IDs for query: machine learning
+2025-03-14 00:46:21 - INFO - Found 50 PubMed IDs for query: machine learning
