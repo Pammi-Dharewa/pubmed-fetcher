@@ -1,5 +1,5 @@
 [project]
-name = "pubmed-fetcher"
+name = "pammidharewa-pubmed-fetcher"
 version = "0.1.0"
 description = "A Python program to fetch and filter PubMed papers."
 authors = [
@@ -12,6 +12,10 @@ dependencies = [
     "pandas>=2.2.3,<3.0.0",
     "typer>=0.15.2,<0.16.0"
 ]
+
+[tool.poetry]
+packages = [{include = "pubmed_fetcher", from = "src"}]
+
 
 [tool.poetry.scripts]
 get-papers-list = "pubmed_fetcher.main:run"
