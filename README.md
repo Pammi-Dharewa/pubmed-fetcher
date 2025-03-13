@@ -58,6 +58,16 @@ pubmed-fetcher/
 python -m src.pubmed_fetcher.main "vaccine" --output papers.csv
 
 
+Logging
+The tool logs its activities to pubmed_fetcher.log. You can check this file for detailed information about the fetching and processing steps.
+
+LLM Tools Used
+This project utilizes Large Language Model (LLM) tools to enhance its functionality. The following LLM tools were used:
+
+GitHub Copilot: Assisted in generating code snippets and providing suggestions for improving the code structure and functionality.
+
+ChatGPT: Provided guidance and support in writing documentation, debugging, and enhancing the overall project.
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
@@ -66,7 +76,4 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 
 Contact
 For any questions or suggestions, please contact 'pammidharewa31@gmail.com'.
-
-
-
 
